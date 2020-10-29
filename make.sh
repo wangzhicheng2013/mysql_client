@@ -1,0 +1,1 @@
+g++ -std=c++11 -g -o Test test.cpp -I ./ -I /usr/include/mysql -I /usr/include/mysql++ -lmysqlpp -lmysqlclient
